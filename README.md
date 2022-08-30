@@ -11,6 +11,8 @@ Submission in "Class: Robotics IOT"
 - [GitHub](https://github.com/plumchloride/Submission-Robotics-IOT/blob/main/calc_finger.py)  
 ### C++  
 - Arduino Nano IDE>exsample>Firmata>StandardFirmata を利用
+## 回路図
+![Untitled](https://user-images.githubusercontent.com/70005022/187386523-741723d0-b887-4e37-b96b-aba2198b12fb.png)
 ## システム環境
 - Python (3.8)
   - pyfirmata
