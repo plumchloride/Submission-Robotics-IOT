@@ -3,6 +3,9 @@ Submission in "Class: Robotics IOT"
 # FINGER CALC
 　mediapipeの指認識機能及びMaker Nanoを組み合わせて一桁と一桁の和・積を行うアプリケーション
  ![image](https://user-images.githubusercontent.com/70005022/187378290-650a5be6-89dd-4a1a-a9a9-c14b42d8d576.png)
+# デモ
+- [google drive mp4](https://drive.google.com/file/d/1WOWxxskMY1HLWPcO7zVPQNmYJcG4J401/view?usp=sharing)  
+- [GitHub]()
 # システム環境
 - Python (3.8)
   - pyfirmata
