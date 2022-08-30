@@ -4,8 +4,10 @@ Submission in "Class: Robotics IOT"
 　mediapipeの指認識機能及びMaker Nanoを組み合わせて一桁と一桁の和・積を行うアプリケーション
  ![image](https://user-images.githubusercontent.com/70005022/187378290-650a5be6-89dd-4a1a-a9a9-c14b42d8d576.png)
 # デモ
-- [google drive mp4](https://drive.google.com/file/d/1WOWxxskMY1HLWPcO7zVPQNmYJcG4J401/view?usp=sharing)  
-- [GitHub]()
+- [google drive .mp4](https://drive.google.com/file/d/1WOWxxskMY1HLWPcO7zVPQNmYJcG4J401/view?usp=sharing)  
+- [GitHub .mp4](https://github.com/plumchloride/Submission-Robotics-IOT/blob/main/demo.mp4)
+# コード
+- [GitHub .py](https://github.com/plumchloride/Submission-Robotics-IOT/blob/main/calc_finger.py)
 # システム環境
 - Python (3.8)
   - pyfirmata
@@ -37,7 +39,7 @@ Submission in "Class: Robotics IOT"
 　計算した結果を二進数に変換する機能
 # Maker Nano表示機能
 　変換した２進数を用いて、StandardFirmataを適用させたMaker NanoのLEDを光らせることで解の数字を２進数として表示させている
-#　工夫した点
+# 工夫した点
 - 確定機能を用いて誤入力防止に務めた
 - 選択機能において選択している事を明示している
 - リセットすることをアプリ内で可能にした点
